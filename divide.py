@@ -4,6 +4,6 @@ def Divide(a,b):
     elif b==0:
         return("입력 값이 잘못되었습니다.")
     else:
-        return(a//b)
+        return(a/b)
 
     
